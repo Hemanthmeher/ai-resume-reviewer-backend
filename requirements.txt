@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 python-multipart
+pdfplumber
 PyPDF2
 google-generativeai
 python-dotenv
